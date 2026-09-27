@@ -10,7 +10,9 @@ The cpp files can be found in "...\Webots\src\controller\cpp";
 
 In the paths above, ... is where your Webots program has been installed.
 
-Note: The style of the Webots hpp and cpp files may not follow what has been recommended in MTRN2500.
+Note: 
+
+The style of the Webots hpp and cpp files may not follow what has been recommended in MTRN2500.
 
 It is mainly because most of the files were started many years ago, and updating them to the modern standards require lots of effort.
  
